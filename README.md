@@ -8,7 +8,7 @@
 | 4.   | [Определение выгодного тарифа для телеком компании](https://github.com/madisdead/DS-projects/tree/main/tariff-determination) |  На основе данных клиентов оператора сотовой связи проанализировать поведение клиентов и поиск оптимального тарифа         | python, pandas, Matplotlib, Numpy, SciPy, описательная статистика, проверка статистических гипотез |
 | 5.   | [Обработка фотографий покупателя](https://github.com/madisdead/DS-projects/tree/main/photo-processing) |  Обработка фотографий покупателя         | python, Keras |
 | 6.   | [Классификаиция клиентов телеком компании](https://github.com/madisdead/DS-projects/tree/main/classification-of-telecom-clients) |  На основе данных предложить клиенту тариф.         | python, pandas, Matplotlib, Scikit-learn |
-| 7.   | []() |           |  |
+| 7.   | [Прогнозирование оттока клиента Банка](https://github.com/madisdead/DS-projects/tree/main/customer-churn) |  На основе данных из банка определить клиент, который может уйти         | pandas, MatplotLib, Scikit-learn |
 | 8.   | []() |           |  |
 | 9.   | []() |           |  |
 | 10.   | []() |           |  |
