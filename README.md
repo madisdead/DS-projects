@@ -11,7 +11,7 @@
 | 7.   | [Прогнозирование оттока клиента Банка](https://github.com/madisdead/DS-projects/tree/main/customer-churn) |  На основе данных из банка определить клиент, который может уйти         | pandas, MatplotLib, Scikit-learn |
 | 8.   | [Определение наиболее выгодного региона нефтедобычи](https://github.com/madisdead/DS-projects/tree/main/oil-production) | На основе данных геологи разведки выбрать район добычи нефти          | pandas, Scikit-learn, бутстреп |
 | 9.   | [Исследование технологического процесса очистки золота](https://github.com/madisdead/DS-projects/tree/main/gold-recovery) | Спрогнозировать концентрацию золота при проведении процесса очистки золота          | python, pandas, Matplotlib, NumPy, Scikit-learn, исследовательский анализ данных |
-| 10.   | []() |           |  |
+| 10.   | [Защита данных клиентов страховой компании](https://github.com/madisdead/DS-projects/tree/main/data-protection) |  Разработка модели анонимизации персональных данных         | python, NumPy, Scikit-learn |
 | 11.   | []() |           |  |
 | 12.   | []() |           |  |
 | 13.   | []() |           |  |
