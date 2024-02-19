@@ -10,7 +10,7 @@
 | 6.   | [Классификаиция клиентов телеком компании](https://github.com/madisdead/DS-projects/tree/main/classification-of-telecom-clients) |  На основе данных предложить клиенту тариф.         | python, pandas, Matplotlib, Scikit-learn |
 | 7.   | [Прогнозирование оттока клиента Банка](https://github.com/madisdead/DS-projects/tree/main/customer-churn) |  На основе данных из банка определить клиент, который может уйти         | pandas, MatplotLib, Scikit-learn |
 | 8.   | [Определение наиболее выгодного региона нефтедобычи](https://github.com/madisdead/DS-projects/tree/main/oil-production) | На основе данных геологи разведки выбрать район добычи нефти          | pandas, Scikit-learn, бутстреп |
-| 9.   | []() |           |  |
+| 9.   | [Исследование технологического процесса очистки золота](https://github.com/madisdead/DS-projects/tree/main/gold-recovery) | Спрогнозировать концентрацию золота при проведении процесса очистки золота          | python, pandas, Matplotlib, NumPy, Scikit-learn, исследовательский анализ данных |
 | 10.   | []() |           |  |
 | 11.   | []() |           |  |
 | 12.   | []() |           |  |
