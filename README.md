@@ -14,5 +14,5 @@
 | 10.   | [Защита данных клиентов страховой компании](https://github.com/madisdead/DS-projects/tree/main/data-protection) |  Разработка модели анонимизации персональных данных         | python, NumPy, Scikit-learn |
 | 11.   | [Построение модели определения стоимости автомобиля](https://github.com/madisdead/DS-projects/tree/main/car-price) |  Разработка системы рекомендации стоимости автомобиля на основе его описания         | python, pandas, lightgbm |
 | 12.   | [Прогнозирование количества заказов такси на следующий час](https://github.com/madisdead/DS-projects/tree/main/taxi) | Прогнозирование количества заказов такси на следующий час          | python, pandas, Scikit-learn, statsmodels |
-| 13.   | []() |           |  |
+| 13.   | [Обучение модели классификации комментариев](https://github.com/madisdead/DS-projects/tree/main/text-analysis) | Определение токсичности комментарии.          | python, pandas, BERT, nltk, tf-idf |
 | 14.   | []() |           |  |
