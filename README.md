@@ -12,7 +12,7 @@
 | 8.   | [Определение наиболее выгодного региона нефтедобычи](https://github.com/madisdead/DS-projects/tree/main/oil-production) | На основе данных геологи разведки выбрать район добычи нефти          | pandas, Scikit-learn, бутстреп |
 | 9.   | [Исследование технологического процесса очистки золота](https://github.com/madisdead/DS-projects/tree/main/gold-recovery) | Спрогнозировать концентрацию золота при проведении процесса очистки золота          | python, pandas, Matplotlib, NumPy, Scikit-learn, исследовательский анализ данных |
 | 10.   | [Защита данных клиентов страховой компании](https://github.com/madisdead/DS-projects/tree/main/data-protection) |  Разработка модели анонимизации персональных данных         | python, NumPy, Scikit-learn |
-| 11.   | []() |           |  |
-| 12.   | []() |           |  |
+| 11.   | [Построение модели определения стоимости автомобиля](https://github.com/madisdead/DS-projects/tree/main/car-price) |  Разработка системы рекомендации стоимости автомобиля на основе его описания         | python, pandas, lightgbm |
+| 12.   | [Прогнозирование количества заказов такси на следующий час](https://github.com/madisdead/DS-projects/tree/main/taxi) | Прогнозирование количества заказов такси на следующий час          | python, pandas, Scikit-learn, statsmodels |
 | 13.   | []() |           |  |
 | 14.   | []() |           |  |
